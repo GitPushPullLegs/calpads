@@ -1,2 +1,3 @@
 lxml==4.8.0
 requests==2.27.1
+python-dotenv==0.20.0
